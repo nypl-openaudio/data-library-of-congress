@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [The American Folklife
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) provided by the [The Library of Congress](https://loc.gov) contains 118 hours of recordings documenting North American English dialects. The recordings include speech samples, linguistic interviews, oral histories, conversations, and excerpts from public speeches. The Library of Congress is the world’s largest library, offering access to the creative record of the United States—and extensive materials from around the world—both on site and online. It is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.
 
